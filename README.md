@@ -32,8 +32,8 @@ But if I had to order them:
 
 Things I want to do:
 - [x] Push my VOD microservice backend to a repo.
-- [] Add rendering to my NES emulator using WebGL for the web.
-- [] Port the NES emulator using WASM.
+- [ ] Add rendering to my NES emulator using WebGL for the web.
+- [ ] Port the NES emulator using WASM.
 
 Bye
 
