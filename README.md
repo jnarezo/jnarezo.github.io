@@ -1,8 +1,8 @@
 ## Joshua Narezo's User Page
 
-I think my **_favorite_ programming language** is C# or ~~JavaScript~~, mostly
+I think my **_favorite_ programming language** is **C#** or ~~JavaScript~~, mostly
 because of the simple functional programming, lambdas, and implementation of
-some C++ concepts (specifically for C#).
+some C++ concepts (***specifically for C#***).
 
 > This is some blocked text.
 
@@ -21,6 +21,7 @@ Here is also some of my favorite Pokemon:
 - Milotic
 
 ![slimeDespair](img/slime.png)
+
 But if I had to order them:
 1. Glaceon
    - ~~Best eveelution~~
@@ -34,5 +35,6 @@ Things I want to do:
 - [] Add rendering to my NES emulator using WebGL for the web.
 - [] Port the NES emulator using WASM.
 
-Bye~
+Bye
+
 ![majou_no_tabitabi](img/imout.gif)
